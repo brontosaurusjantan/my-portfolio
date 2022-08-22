@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Point Of Sales",
+    subtitle: "React JS Frontend",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+      "Project ini dikembangkan oleh divisi tech di NIAGA WOOD untuk membantu sales dan finance dalam rekap data",
+    image: "./porto1.gif",
     link: "https://reactbootcamp.com",
   },
   {
