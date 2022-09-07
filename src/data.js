@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Project ini dikembangkan oleh divisi tech di NIAGA WOOD untuk membantu sales dan finance dalam rekap data",
     image: "./porto1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://admin.niagasarae.com/",
   },
   {
     title: "Inventory Feature",
@@ -13,23 +13,23 @@ export const projects = [
     description:
       "projek inventori dibuat untuk memudahkan sistem inbound outbound dan stock opname",
     image: "./porto2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://admin.niagasarae.com/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Digital Marketing",
+    subtitle: "Sarae Interior",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Search Engine Optimation dan mantain beberapa asset website, berbasis CMS dan pengaturan Ads, Tag Manager, dan tools google analytic.",
+    image: "./projek-sarae.png",
+    link: "https://sarae.id/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Sarae Interior ",
+    subtitle: "Landing Page",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Project Running untuk salah satu divisi, Membuat landingpage berbasis website, dan melakukan SEO analisis untuk pengiklanan",
+    image: "./landingpage-ro.png",
+    link: "",
   },
 ];
 
@@ -54,7 +54,9 @@ export const skills = [
   "JavaScript",
   "React",
   "Next.js",
-  "Node",
   "GraphQL",
   "Material UI",
+  "SEO",
+  "google Tag Manager",
+  "Ads"
 ];
